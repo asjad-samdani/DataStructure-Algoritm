@@ -12,6 +12,7 @@ public class BuildTree {
             this.data = data;
             this.left = null;
             this.right = null;
+            //Asjad samdani
         }
     }
 
